@@ -1,8 +1,2 @@
 # Bug-Ranger
-
-Issue/Bug tracker made with React.js.
-
-## Features
-
-Add, edit and delete issues, sort by elements and issue search filter.
-
+ BugRanger was made by Cássio Amoras as a system analysis study. BugRanger is a simple bug-tracker made with React.js, with sorting and searching capabilites, focused on user experience, defensive programming and responsiveness.
