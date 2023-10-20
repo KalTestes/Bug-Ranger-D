@@ -1,8 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "start_url": ".",
+  "short_name": "Bug Ranger",
+  "name": "Bug Ranger App",
+  "start_url": "/bug-ranger-d/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#007ACC",
+  "background_color": "#FFFFFF"
 }
