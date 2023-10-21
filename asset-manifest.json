@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bug-ranger-d/static/css/main.a7f1cf91.css",
-    "main.js": "/bug-ranger-d/static/js/main.4a47e6b5.js",
+    "main.js": "/bug-ranger-d/static/js/main.ec129e6f.js",
     "static/media/BugRangerLogo.svg": "/bug-ranger-d/static/media/BugRangerLogo.e0e5ee2d814432030e7918e27f94a825.svg",
     "index.html": "/bug-ranger-d/index.html",
     "main.a7f1cf91.css.map": "/bug-ranger-d/static/css/main.a7f1cf91.css.map",
-    "main.4a47e6b5.js.map": "/bug-ranger-d/static/js/main.4a47e6b5.js.map"
+    "main.ec129e6f.js.map": "/bug-ranger-d/static/js/main.ec129e6f.js.map"
   },
   "entrypoints": [
     "static/css/main.a7f1cf91.css",
-    "static/js/main.4a47e6b5.js"
+    "static/js/main.ec129e6f.js"
   ]
 }
