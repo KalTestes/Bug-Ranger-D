@@ -1,8 +1,8 @@
 {
   "name": "bug-ranger",
   "version": "0.1.0",
-  "homepage": "https://kaltestes.github.io/bug-ranger-d",
-  "private": true,
+  "homepage": "https://kaltestes.github.io/bug-ranger-d/",
+  "private": false,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.4.0",
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
@@ -23,11 +23,13 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "lint":  "eslint Src/",
+    "lint:fix": "eslint  Src/ --fix"
   },
   "eslintConfig": {
     "extends": [
